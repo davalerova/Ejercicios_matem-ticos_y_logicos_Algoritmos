@@ -1,0 +1,6 @@
+1. Tomar una cuerda y prender ambos extremos
+2. Tomamos la segunda cuerda y prendemos uno de sus extremos
+3. Vamos  a observar la primera cuerda hasta que ambas llamas se encuentren
+4. Cuando se encuentran ambas llamas habrán pasado 30 minutos
+5. En este momento vamos a tomar la segunda cuerda y vamos a prender su extremos
+6. Cuando las dos llamas de la segunda cuerda se encuentren, esto quiere decir que han pasado 15 minutos
